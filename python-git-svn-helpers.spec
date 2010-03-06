@@ -11,6 +11,7 @@ BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source0:	%{oname}-%{version}.tar.xz
 URL:		http://github.com/tomster/git-svn-helpers
 BuildArch:	noarch
+Requires:	python-jarn.mkrelease
 
 %description
 git-svn-helpers is a collection of command line tools that greatly simplify
