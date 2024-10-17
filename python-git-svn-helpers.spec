@@ -9,7 +9,7 @@ License:	BSD
 Group:		Development/Other
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source0:	%{oname}-%{version}.tar.xz
-URL:		http://github.com/tomster/git-svn-helpers
+URL:		https://github.com/tomster/git-svn-helpers
 BuildArch:	noarch
 Requires:	python-jarn.mkrelease
 
