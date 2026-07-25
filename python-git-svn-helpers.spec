@@ -4,7 +4,7 @@
 Summary:	Command-line tools to make git-svn simple
 Name:		python-%{oname}
 Version:	0.6
-Release:	%mkrel 0.%{gitdate}.1
+Release:	0.%{gitdate}.2
 License:	BSD
 Group:		Development/Other
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
